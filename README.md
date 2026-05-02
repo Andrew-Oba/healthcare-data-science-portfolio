@@ -11,5 +11,5 @@ predictive modeling, patient outcomes, and interpretable decision support.
 ## Technical Skills
 Python, pandas, SQL, scikit-learn, visualization, Git/GitHub, clinical data interpretation
 ## Contact
-LinkedIn: [your link]
+LinkedIn: 
 Email: andrew.obamwonyi@somaglobe.com
