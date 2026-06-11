@@ -1,4 +1,4 @@
-# healthcare-data-science-portfolio
+# Healthcare-data-science-portfolio
 Physician-built healthcare analytics and clinical data science portfolio
 # Healthcare Data Science Portfolio
 ## About
