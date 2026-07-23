@@ -1,0 +1,4 @@
+patient_id,department,comment,compound
+PT-1018,Endocrinology,Medication caused severe side effects that were never mentioned to me.,-0.3818
+PT-1019,Pharmacy,I was given the wrong dosage instructions at discharge.,-0.4767
+PT-1020,Primary Care,"New prescription made my symptoms worse, not better.",-0.6711

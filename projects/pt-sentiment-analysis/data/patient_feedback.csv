@@ -1,0 +1,31 @@
+patient_id,department,comment
+PT-1000,Cardiology,The nurse was incredibly attentive and explained everything clearly.
+PT-1001,Primary Care,"Dr. Simmons took the time to answer all of my questions, I felt heard."
+PT-1002,Radiology,Front desk staff were friendly and checked me in quickly.
+PT-1003,Oncology,My care team kept me informed at every step of my treatment.
+PT-1004,Orthopedics,The physical therapist was patient and encouraging during my recovery.
+PT-1005,Urgent Care,"I was seen within 10 minutes of arriving, much faster than expected."
+PT-1006,Primary Care,Short wait time and the whole visit felt efficient.
+PT-1007,Endocrinology,The new medication worked well and I noticed improvement within days.
+PT-1008,Pharmacy,Pharmacist clearly explained dosage and possible side effects.
+PT-1009,Orthopedics,Pain management plan has been very effective since my surgery.
+PT-1010,Emergency,Waited over 3 hours in the ER with no updates from staff.
+PT-1011,Primary Care,Appointment was delayed almost 90 minutes with no explanation.
+PT-1012,Urgent Care,I sat in the waiting room so long I almost left without being seen.
+PT-1013,Radiology,Check-in line was extremely slow and disorganized.
+PT-1014,Primary Care,The doctor seemed rushed and did not explain my diagnosis well.
+PT-1015,Oncology,Nobody followed up with my test results for over two weeks.
+PT-1016,Emergency,Staff was dismissive when I raised concerns about my symptoms.
+PT-1017,Cardiology,"I felt like just a number, not a patient."
+PT-1018,Endocrinology,Medication caused severe side effects that were never mentioned to me.
+PT-1019,Pharmacy,I was given the wrong dosage instructions at discharge.
+PT-1020,Primary Care,"New prescription made my symptoms worse, not better."
+PT-1021,Emergency,Nurse administered medication without confirming my allergy history.
+PT-1022,Billing,Billing department overcharged me and it took weeks to resolve.
+PT-1023,Billing,I received a confusing bill with no itemized breakdown.
+PT-1024,Radiology,The facility was clean but parking was difficult to find.
+PT-1025,Primary Care,"Appointment was on time, nothing unusual to note either way."
+PT-1026,Endocrinology,Medication worked well but the side effects were rough at first.
+PT-1027,Urgent Care,"Staff were kind, though the wait time could be improved."
+PT-1028,Orthopedics,Facility looked outdated but the care itself was solid.
+PT-1029,Cardiology,"Test results took a while to come back, but the doctor explained them well once they did."
